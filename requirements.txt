@@ -39,7 +39,7 @@ soupsieve==1.9.5
 toml==0.10.0
 tox==3.14.3
 twilio==6.35.5
-urllib3==1.25.8
+urllib3==1.26.5
 virtualenv==20.0.3
 Werkzeug==1.0.0
 wrapt==1.11.2
